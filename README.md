@@ -19,6 +19,8 @@ I’m Arun Kumar Giri, a passionate Full-Stack Software Engineer skilled in Next
 - 🏆 National Robotics Rank 2nd (ISRO Science Fair, 2022)  
 
 ---
+![1745318883574](https://github.com/user-attachments/assets/6036ad31-d898-414d-98f9-3a0f33940b60)
+
 
 ## 🛠️ Tech Stack  
 
