@@ -50,12 +50,12 @@ I’m Arun Kumar Giri, a passionate Full-Stack Software Engineer skilled in Next
 
 ## 🌐 Connect With Me  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/arun-kumar-giri-54a0b7318)  
+
 🔗 [GitHub](https://github.com/ArPriCode)  
 🔗 [LeetCode](https://leetcode.com/u/ArPriCode/)  
 🔗 [Codeforces](https://codeforces.com/profile/Arun9696)  
 🔗 [HackerRank](https://www.hackerrank.com/profile/quantagiri2)  
-🔗 [Portfolio](https://arun2024-ai.github.io/Protfolio_Arun/)  
+
 
 ---
 
