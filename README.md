@@ -11,8 +11,7 @@ I’m Arun Kumar Giri, a passionate Full-Stack Software Engineer skilled in Next
 
 ---
 
-## 🧑‍💻 About Me  
-- 🎓 B.Tech in Artificial Intelligence @ Newton School of Technology, Rishihood University  
+## 🧑‍💻 About Me    
 - 🔭 Currently working with **React.js, Next.js, Node.js, Express.js, MySQL**  
 - 🌱 Exploring **AI, Machine Learning, and Scalable Systems**  
 - 💡 Competitive Programmer (LeetCode 1800+, Codeforces 1050+)  
