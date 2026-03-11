@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Background">
+</p>
 # 💫 About Me:
 # 👋 Hi, I'm Arun Kumar Giri  
 
