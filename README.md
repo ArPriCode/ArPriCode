@@ -18,7 +18,7 @@ I’m Arun Kumar Giri, a passionate Full-Stack Software Engineer skilled in Next
 - 🏆 National Robotics Rank 2nd (ISRO Science Fair, 2022)  
 
 ---
-![1745318883574](https://github.com/user-attachments/assets/6036ad31-d898-414d-98f9-3a0f33940b60)
+
 
 
 ## 🛠️ Tech Stack  
@@ -58,7 +58,11 @@ I’m Arun Kumar Giri, a passionate Full-Stack Software Engineer skilled in Next
 
 ---
 
-⭐️ From [ArPriCode](https://github.com/ArPriCode)  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArPriCode/ArPriCode/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArPriCode/ArPriCode/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ArPriCode/ArPriCode/output/pacman-contribution-graph.svg">
+</picture>
 
 
 
