@@ -2,91 +2,264 @@
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Background">
 </p>
 
-# 👋 Hi, I'm Arun Kumar Giri  
+<div align="center">
+  
+  # 🚀 Arun Kumar Giri
+  **System Design Engineer | Competitive Programmer | AI/ML & Generative AI | Agentic AI | Deep Learning | DevOps/MLOps | Open Source**
 
-🚀 **Full-Stack Software Engineer | AI Enthusiast | Competitive Programmer**  
-I’m Arun Kumar Giri, a passionate Full-Stack Software Engineer skilled in Next.js, React.js, Node.js, and MySQL.<br>I have built and optimized B2B platforms, APIs, and scalable web apps, improving performance significantly.<br>With a Minor in AI from IIT Ropar, I bring expertise in Python, TensorFlow, and data science tools.<br>As a competitive programmer (LeetCode 1800+, Codeforces 1050+), I thrive on problem-solving and clean coding.<br>My goal is to innovate at the intersection of software engineering, AI, and scalable systems.
+  > 🧠 **Building intelligent AI systems** | 🤖 **LangChain & LangGraph Expert** | 🏗️ **Scalable Architecture** | 📊 **ML/MLOps Pipeline** | 🔄 **DevOps & Cloud** | 🔓 **Open Source Contributor**
 
-🌟 Passionate about building **scalable web apps**, optimizing **B2B platforms**, and exploring **AI & ML**.  
 
----
 
-## 🧑‍💻 About Me    
-- 🔭 Currently working with **React.js, Next.js, Node.js, Express.js, MySQL**  
-- 🌱 Exploring **AI, Machine Learning, and Scalable Systems**  
-- 💡 Competitive Programmer (LeetCode 1800+, Codeforces 1050+)  
-- 🏆 National Robotics Rank 2nd (ISRO Science Fair, 2022)  
+</div>
 
 ---
 
+## 🎯 About Me
 
+I'm a **System Design Engineer** and **AI/ML specialist** passionate about building scalable systems, architecting intelligent solutions, and contributing to open-source AI tooling. With expertise spanning competitive programming, deep learning, and DevOps/MLOps, I bridge the gap between cutting-edge AI research and production-grade systems.
 
-## 🛠️ Tech Stack  
+**Currently focused on:**
+- 🤖 **Generative AI & Agentic AI** – Building intelligent agents with LangChain & LangGraph
+- 🧠 **Deep Learning & Data Science** – End-to-end ML pipelines, custom architectures, and advanced modeling
+- 🏗️ **System Design & DSA** – Designing scalable distributed systems and solving algorithmic challenges  
+- 🔄 **DevOps & MLOps** – CI/CD automation, containerization, model deployment, and production monitoring
+- 🔓 **Open Source** – Contributing to LLM tooling, agent frameworks, and AI infrastructure
 
-**Frontend:** React.js | Next.js | JavaScript | HTML | CSS | Tailwind CSS  
-**Backend:** Node.js | Express.js | REST APIs  
-**Databases:** MySQL | MongoDB  
-**Programming:** C++ | JavaScript | Python | TypeScript | SQL  
-**AI/ML:** Python | Pandas | NumPy | TensorFlow | Seaborn | Robotics  
-**Tools:** GitHub | Figma | Linux  
-
----
-
-## 🚀 Projects  
-
-🔹 [Apple Vision Pro Clone](https://apple-vision-pro-41ko.vercel.app/)  
-🔹 [Spotify Clone](https://arun2024-ai.github.io/Spofity-clone/)  
-🔹 [Portfolio Website](https://arun2024-ai.github.io/Protfolio_Arun/)  
+> **Mission:** Build next-generation AI systems and agents that are reliable, interpretable, scalable, and production-ready.
 
 ---
 
-## 📊 GitHub Stats  
+## 🏆 Competitive Programming & Problem Solving
 
-![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArPriCode&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArPriCode&layout=compact&theme=tokyonight)  
-
----
-
-## 🌐 Connect With Me  
-
-
-🔗 [GitHub](https://github.com/ArPriCode)  
-🔗 [LeetCode](https://leetcode.com/u/ArPriCode/)  
-🔗 [Codeforces](https://codeforces.com/profile/Arun9696)  
-🔗 [HackerRank](https://www.hackerrank.com/profile/quantagiri2)  
-
+- **LeetCode:** 1800+ Rating | Data Structures & Algorithms Expert
+- **Codeforces:** 1050+ Rating | System Design & Optimization
+- **HackerRank:** Problem Solver | Algorithm & Data Structures
+- **National Achievement:** 2nd Rank - ISRO Robotics Science Fair (2022)
+- **Key Strengths:** Array/String | Trees/Graphs | Dynamic Programming | Greedy | Binary Search | System Design
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArPriCode/ArPriCode/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArPriCode/ArPriCode/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ArPriCode/ArPriCode/output/pacman-contribution-graph.svg">
-</picture>
+## 🛠️ Technology Stack & Expertise
 
+### **🧠 AI/ML & LLMs**
+`Python` | `PyTorch` | `TensorFlow` | `Transformers` | `Hugging Face` | `JAX` | `ONNX` | `Model Optimization`
 
+Expertise in building and fine-tuning state-of-the-art language models, working with transformer architectures, and leveraging pre-trained models for production applications.
 
+### **🤖 Agentic AI - Building Autonomous AI Systems & Next-Gen LLM Architectures**
+`LangChain` | `LangGraph` | `AutoGen` | `LlamaIndex` | `Semantic Kernel` | `Tool Use` | `Agent Orchestration`
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/arun_09h/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arun-kumar-giri-54a0b7318/) 
+Designing multi-agent systems with complex reasoning loops, tool-calling capabilities, and autonomous decision-making frameworks. Expertise in orchestrating agent interactions and building hierarchical AI systems.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ArPriCode&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ArPriCode&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArPriCode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### **🧬 Deep Learning & Neural Architectures**
+`CNNs` | `RNNs` | `LSTMs` | `Attention Mechanisms` | `Vision Transformers (ViT)` | `BERT/GPT Architectures` | `Custom Models`
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ArPriCode&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Building and implementing advanced neural network architectures for computer vision, NLP, and multimodal tasks. Proficient in architecture design, hyperparameter tuning, and model optimization.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### **🔗 Large Language Models (LLMs)**
+`GPT Models` | `Claude` | `Llama` | `Mistral` | `Prompt Engineering` | `Fine-tuning` | `RAG Systems` | `In-context Learning`
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ArPriCode&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Working with cutting-edge LLMs through APIs and local deployment. Expertise in prompt engineering, chain-of-thought reasoning, and building RAG systems for context-aware responses.
+
+### **📊 Distributed Systems & MLOps**
+`MLflow` | `Weights & Biases` | `DVC` | `Model Registry` | `Experiment Tracking` | `Feature Stores` | `Model Serving` | `Pipeline Orchestration`
+
+End-to-end ML lifecycle management including experimentation, versioning, deployment, and monitoring of machine learning systems at scale.
+
+### **AI/ML & Deep Learning** 
+`Python` | `PyTorch` | `TensorFlow` | `JAX` | `Transformers` | `Hugging Face` | `RAG` | `Vector Databases` | `Prompt Engineering` | `Fine-tuning` | `LLMs` | `Computer Vision` | `NLP`
+
+### **Agentic AI & LLM Frameworks**
+`LangChain` | `LangGraph` | `OpenAI API` | `Anthropic Claude` | `Ollama` | `LlamaIndex` | `AutoGen` | `Semantic Kernel`
+
+### **Data Science & Analytics**
+`Pandas` | `NumPy` | `Scikit-learn` | `Seaborn` | `Matplotlib` | `Plotly` | `XGBoost` | `Statistical Analysis` | `A/B Testing`
+
+### **Backend & APIs**
+`Node.js` | `Express.js` | `Python` | `FastAPI` | `Django` | `REST APIs` | `GraphQL` | `WebSockets` | `gRPC`
+
+### **Frontend & UI**
+`React.js` | `Next.js` | `Vue.js` | `TypeScript` | `Tailwind CSS` | `Framer Motion` | `Next UI` | `Responsive Design`
+
+### **DevOps & MLOps**
+`Docker` | `Kubernetes` | `GitHub Actions` | `GitLab CI` | `Terraform` | `CI/CD Pipelines` | `MLflow` | `Weights & Biases` | `DVC` | `Linux/Bash` | `SSH` | `AWS` | `GCP` | `Azure`
+
+### **Databases & Data Engineering**
+`PostgreSQL` | `MySQL` | `MongoDB` | `Redis` | `Elasticsearch` | `Apache Spark` | `Apache Kafka` | `Data Pipelines`
+
+### **Programming Languages**
+`Python` | `JavaScript/TypeScript` | `C++` | `Go` | `SQL` | `Bash` | `Java`
+
+### **Tools & Platforms**
+`Git` | `GitHub` | `GitLab` | `Jupyter Notebooks` | `VS Code` | `Docker Desktop` | `Vercel` | `Hugging Face Hub` | `Weights & Biases` | `Figma`
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ArPriCode&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📝 Latest Research Posts
+
+<div align="center">
+
+[![Read my Medium articles](https://github-readme-medium.vercel.app/?username=arun96&limit=5&bg=1a1b27&text=ffffff)](https://medium.com/@arun96)
+
+</div>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/arunkumargiri)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ArPriCode/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-kumar-giri-54a0b7318/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArPriCode)
+  [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arun96)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArPriCode&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🚀 Core Project Areas & Interests
+
+### **⚡ LangChain & LangGraph - Agentic AI Framework**
+- 🔗 **LangChain Development**
+  - Building LLM-powered applications with chains and memory management
+  - Creating document loaders, text splitters, and embedding pipelines
+  - Implementing conversation buffers and persistent context management
+  - Integrating multiple LLM providers (OpenAI, Claude, Ollama, Cohere)
+
+- 📊 **LangGraph Workflows**
+  - Designing complex multi-agent systems with state graphs
+  - Creating deterministic workflows with branching logic and loops
+  - Tool-calling agents with error recovery and retry mechanisms
+  - Distributed agent coordination and inter-agent communication
+
+- 🎯 **Production-Ready Solutions**
+  - Deploying LangChain/LangGraph apps to production with FastAPI/Flask
+  - Monitoring agent performance and prompt effectiveness
+  - Scaling applications with caching and rate limiting
+  - Building conversation UI/UX with streaming responses
+
+### **🤖 AI & Generative AI**
+- **Agentic Workflows** – Multi-step reasoning agents with LangChain & LangGraph
+- **RAG Systems** – Retrieval-Augmented Generation for context-aware responses
+- **LLM Fine-tuning** – Custom model adaptation for domain-specific tasks
+- **Prompt Engineering** – Advanced techniques for optimal model performance
+- **Multimodal AI** – Vision-language models and cross-modal understanding
+
+### **🔗 LangChain & LangGraph Expertise**
+- **LangChain Mastery** – Building production-grade LLM applications with memory, chains, and agents
+- **LangGraph Workflows** – Creating complex multi-step agentic AI workflows with state management
+- **RAG Pipelines** – End-to-end Retrieval-Augmented Generation with vector stores and semantic search
+- **Custom Agents** – Tool-use agents, reasoning loops, and autonomous decision-making systems
+- **Integration Patterns** – Seamless integration with OpenAI, Anthropic Claude, Ollama, and custom LLMs
+- **Production Systems** – Deploying scalable LLM applications with error handling and monitoring
+
+### **🏛️ System Design & Architecture**
+- Building scalable microservices and distributed systems
+- API gateway patterns and load balancing strategies
+- Database optimization and query performance tuning
+- Caching strategies (Redis, Memcached) and CDN integration
+- Event-driven architectures and message queues
+
+### **📊 Data Science & MLOps**
+- End-to-end ML pipeline development
+- Model versioning, experimentation, and deployment
+- Data engineering and ETL workflows
+- Production monitoring and model drift detection
+- Feature engineering and data preprocessing at scale
+
+### **🔧 DevOps & Infrastructure**
+- Containerization and orchestration with Docker & Kubernetes
+- CI/CD pipeline automation and best practices
+- Infrastructure as Code (Terraform, CloudFormation)
+- Monitoring, logging, and alerting systems (Prometheus, Grafana, ELK)
+- Cloud deployment across AWS, GCP, and Azure
+
+### **🔓 Open Source & Community**
+- Contributing to LangChain, LangGraph, and AI agent frameworks
+- Building AI/ML tools for broader community adoption
+- Knowledge sharing through Kaggle notebooks and technical writeups
+- Mentoring and collaborative development
+
+---
+
+## 💡 Expertise Matrix
+
+| **Area** | **Key Skills** |
+|---|---|
+| **System Design** | Scalability | Distributed Systems | Microservices | Load Balancing | Caching | Data Partitioning |
+| **DSA & Algorithms** | Graphs | Trees | Dynamic Programming | Greedy | Binary Search | Optimization |
+| **AI/ML** | Model Architecture | Transfer Learning | Feature Engineering | Hyperparameter Tuning | Ensemble Methods |
+| **Generative AI** | Prompt Engineering | RAG | Agent Design | Fine-tuning | LLM Integration |
+| **DevOps/MLOps** | Containerization | Orchestration | CI/CD | Infrastructure as Code | Monitoring |
+| **Full-Stack** | Frontend | Backend | APIs | Databases | Real-time Systems |
+
+---
+
+## 🎓 Learning & Growth
+
+- 📚 **Continuous Learner** – Actively exploring latest developments in AI, System Design, and DevOps
+- 🔍 **Research-Oriented** – Implementing cutting-edge techniques from recent papers and preprints
+- 📝 **Knowledge Sharing** – Creating Kaggle notebooks, technical blogs, and LeetCode solutions
+- 🏗️ **Production Focus** – Building systems that scale and perform reliably in real-world scenarios
+- 🤝 **Community Driven** – Contributing to and learning from open-source communities
+
+---
+
+## 🌐 Let's Connect & Collaborate
+
+I'm always interested in:
+- 🤝 Collaborating on AI/ML and system design projects
+- 💬 Discussing competitive programming strategies
+- 🔄 Contributing to open-source AI tooling
+- 📚 Sharing knowledge and learning together
+- 🚀 Building scalable systems and intelligent agents
+
+**Reach out via:**
+- 📧 LinkedIn: [arun-kumar-giri-54a0b7318](https://www.linkedin.com/in/arun-kumar-giri-54a0b7318/)
+- 🐍 LeetCode: [ArPriCode](https://leetcode.com/u/ArPriCode/)
+- 📊 Kaggle: [arunkumargiri](https://www.kaggle.com/arunkumargiri)
+- 💻 GitHub: [ArPriCode](https://github.com/ArPriCode)
+- ✍️ Medium: [arun96](https://medium.com/@arun96)
+
+---
+
+<div align="center">
+
+### 📊 Contribution Activity
+
+[![Contribution Stats](https://github-readme-activity-graph.vercel.app/graph?username=ArPriCode&theme=tokyo-night&hide_border=true)](https://github.com/arunkumargiri)
+
+### 🔥 Commit Streak & Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArPriCode&theme=tokyonight&hide_border=true)
+
+### 📈 Repository Stats
+
+![Repository Stats](https://github-readme-stats.vercel.app/api?username=ArPriCode&show_icons=true&theme=tokyonight&hide_border=true)
+
+### �🏆 Achievements & Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ArPriCode&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8)
+
+---
+> **"STAY FOCUSED AND DON'T TRY TO DO TOO MANY THINGS AT ONCE. CARE ABOUT EXECUTION QUALITY."**
+> 
+> — Sam Altman
+
+---
+**Let's build the future of AI-powered systems together! 🚀**
+
+</div>
+
+---
+
+## 📝 Latest Research Posts
+
+<div align="center">
+
+[![Read my Medium articles](https://github-readme-medium.vercel.app/?username=arun96&limit=5&bg=1a1b27&text=ffffff)](https://medium.com/@arun96)
+
+</div>
