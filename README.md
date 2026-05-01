@@ -5,7 +5,7 @@
 <div align="center">
   
   # 🚀 Arun Kumar Giri
-  **System Design Engineer | Competitive Programmer | AI/ML & Generative AI | Agentic AI | Deep Learning | DevOps/MLOps | Open Source**
+  **AI/ML & Generative AI | Agentic AI | Deep Learning | DevOps/MLOps | Open Source**
 
   > 🧠 **Building intelligent AI systems** | 🤖 **LangChain & LangGraph Expert** | 🏗️ **Scalable Architecture** | 📊 **ML/MLOps Pipeline** | 🔄 **DevOps & Cloud** | 🔓 **Open Source Contributor**
 
