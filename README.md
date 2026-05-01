@@ -17,7 +17,7 @@
 
 ## 🎯 About Me
 
-I'm a **System Design Engineer** and **AI/ML specialist** passionate about building scalable systems, architecting intelligent solutions, and contributing to open-source AI tooling. With expertise spanning competitive programming, deep learning, and DevOps/MLOps, I bridge the gap between cutting-edge AI research and production-grade systems.
+I'm a **AI/ML specialist** passionate about building scalable systems, architecting intelligent solutions, and contributing to open-source AI tooling. With expertise spanning competitive programming, deep learning, and DevOps/MLOps, I bridge the gap between cutting-edge AI research and production-grade systems.
 
 **Currently focused on:**
 - 🤖 **Generative AI & Agentic AI** – Building intelligent agents with LangChain & LangGraph
